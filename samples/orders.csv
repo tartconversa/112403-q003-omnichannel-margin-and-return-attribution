@@ -1,0 +1,4 @@
+order_id,line,channel,paid,cost,state
+O1,1,market-a,250,100,settled
+O2,1,live,180,80,settled
+O3,1,market-b,210,95,settled

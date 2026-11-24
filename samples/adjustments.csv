@@ -1,0 +1,5 @@
+ref,order_id,kind,amount,owner,received
+A1,O1,platform-subsidy,20,platform,2026-10-02
+A2,O1,brand-coupon,15,brand,2026-10-02
+A3,O2,return,60,unknown,2026-10-19
+A4,O3,fulfillment,12,brand,2026-10-20
