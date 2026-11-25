@@ -1,0 +1,5 @@
+correct_channel,monthly_report_channel,misattributed_cents,misattributed_yuan,explanation
+live,market-a,-12000,-120.00,跨店/跨渠道退货：正确口径锚定原下单渠道，旧月报把退款记入受理退货的渠道
+live,offline,-15000,-150.00,跨店/跨渠道退货：正确口径锚定原下单渠道，旧月报把退款记入受理退货的渠道
+market-a,offline,-70000,-700.00,跨店/跨渠道退货：正确口径锚定原下单渠道，旧月报把退款记入受理退货的渠道
+market-b,offline,-50000,-500.00,跨店/跨渠道退货：正确口径锚定原下单渠道，旧月报把退款记入受理退货的渠道

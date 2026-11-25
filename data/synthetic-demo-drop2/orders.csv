@@ -1,0 +1,2 @@
+order_id,line,channel,sku,campaign,order_date,paid,cogs,state
+D99,1,market-a,SKU-BLUE,camp-autumn,2026-10-20,480,240,settled

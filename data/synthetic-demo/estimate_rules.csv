@@ -1,0 +1,4 @@
+channel,kind,rate,basis,note
+market-a,fulfillment_fee,0.02,paid,线上平台履约费暂估（实际结算数周后到达）
+market-b,fulfillment_fee,0.02,paid,线上平台履约费暂估
+live,fulfillment_fee,0.025,paid,直播履约（含逆向物流）暂估

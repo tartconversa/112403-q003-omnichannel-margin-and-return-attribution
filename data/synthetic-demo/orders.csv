@@ -1,0 +1,13 @@
+order_id,line,channel,sku,campaign,order_date,paid,cogs,state
+D1,1,market-a,SKU-RED,camp-autumn,2026-10-03,800,420,settled
+D1,2,market-a,SKU-BLUE,camp-autumn,2026-10-03,300,150,settled
+D2,1,live,SKU-RED,camp-live-super,2026-10-05,500,260,settled
+D3,1,market-b,SKU-GREEN,camp-autumn,2026-10-08,1200,640,shipped
+D4,1,offline,SKU-BLUE,camp-store,2026-10-12,450,220,settled
+D5,1,live,SKU-GREEN,camp-live-super,2026-10-18,360,180,settled
+D6,1,market-a,SKU-RED,camp-autumn,2026-10-22,700,360,settled
+N1,1,live,SKU-BLUE,camp-live-super,2026-11-02,600,300,settled
+N2,1,offline,SKU-GREEN,camp-store,2026-11-06,400,200,settled
+N3,1,market-b,SKU-RED,camp-1111,2026-11-09,900,470,settled
+N4,1,market-a,SKU-GREEN,camp-1111,2026-11-11,550,290,settled
+D7,1,offline,SKU-RED,camp-store,2026-11-15,350,175,settled

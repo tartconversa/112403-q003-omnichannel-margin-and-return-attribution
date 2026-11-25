@@ -10,3 +10,9 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# 应用运行产物（数据库与导出报告可重新生成；输入数据 data/**/*.csv 保留）
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+data/reports/

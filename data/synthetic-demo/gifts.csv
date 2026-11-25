@@ -1,0 +1,5 @@
+ref,order_id,line,sku,amount,bearer,event_date,received
+G1,D2,1,GIFT-POUCH,18,brand,2026-10-05,2026-10-05
+G2,D5,1,GIFT-POUCH,18,brand,2026-10-18,2026-10-18
+G3,N1,1,GIFT-CARD,12,brand,2026-11-02,2026-11-02
+G4,N4,1,GIFT-POUCH,15,unknown,2026-11-11,

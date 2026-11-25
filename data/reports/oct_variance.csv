@@ -1,0 +1,10 @@
+change,key,source_ref,entry_kind,order_id,line_no,snapshot_cents,snapshot_yuan,live_cents,live_yuan,detail
+changed,fulfillment.csv|F8|suspense||,F8,suspense,,,-1500,-15.00,-1500,-15.00,承担方 unknown→brand；类型 suspense→fulfillment_fee；归属 None/None→D99/market-a
+changed,estimate_rules.csv|EST:fulfillment_fee:D3#L1|estimated_fee|D3|1,EST:fulfillment_fee:D3#L1,estimated_fee,D3,1,-2400,-24.00,-2400,-24.00,核对状态 pending→superseded
+added,orders.csv|D99#L1|gross_receipt|D99|1,D99#L1,gross_receipt,D99,1,,0.00,48000,480.00,定稿后新到达的分录（迟到数据）
+added,orders.csv|D99#L1|cogs|D99|1,D99#L1,cogs,D99,1,,0.00,-24000,-240.00,定稿后新到达的分录（迟到数据）
+added,fulfillment.csv|F10|fulfillment_fee|D3|1,F10,fulfillment_fee,D3,1,,0.00,-2400,-24.00,定稿后新到达的分录（迟到数据）
+added,returns.csv|R6|return_refund|D1|2,R6,return_refund,D1,2,,0.00,-18000,-180.00,定稿后新到达的分录（迟到数据）
+added,returns.csv|R6#cogs-reversal|cogs_reversal|D1|2,R6#cogs-reversal,cogs_reversal,D1,2,,0.00,9000,90.00,定稿后新到达的分录（迟到数据）
+added,estimate_rules.csv|EST:fulfillment_fee:D3#L1#reversal|estimate_reversal|D3|1,EST:fulfillment_fee:D3#L1#reversal,estimate_reversal,D3,1,,0.00,2400,24.00,定稿后新到达的分录（迟到数据）
+added,estimate_rules.csv|EST:fulfillment_fee:D99#L1|estimated_fee|D99|1,EST:fulfillment_fee:D99#L1,estimated_fee,D99,1,,0.00,-960,-9.60,定稿后新到达的分录（迟到数据）

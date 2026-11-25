@@ -1,0 +1,8 @@
+ref,order_id,line,kind,amount,bearer,event_date,received
+C1,D1,,brand_coupon,100,brand,2026-10-03,2026-10-03
+C2,D2,1,brand_coupon,40,brand,2026-10-05,2026-10-05
+C3,D2,1,platform_coupon,20,platform,2026-10-05,2026-10-05
+C4,D3,1,unknown_discount,60,unknown,2026-10-08,
+C5,N1,1,brand_coupon,35,brand,2026-11-02,2026-11-02
+C6,N3,1,platform_coupon,45,platform,2026-11-09,2026-11-09
+C7,N4,1,brand_coupon,25,brand,2026-11-11,2026-11-11

@@ -1,0 +1,7 @@
+ref,order_id,line,refund_amount,restocked,return_channel,event_date,received
+R1,D4,1,200,1,offline,2026-10-28,2026-10-28
+R2,D6,1,300,0,offline,2026-11-01,2026-11-01
+R3,N3,1,500,1,offline,2026-11-12,2026-11-12
+R4,D5,1,120,1,market-a,2026-11-03,2026-11-03
+R5,N1,1,150,1,offline,2026-11-20,2026-11-20
+R5,N2,1,100,0,offline,2026-11-20,2026-11-20
